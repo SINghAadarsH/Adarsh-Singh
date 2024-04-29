@@ -11,6 +11,14 @@ I am a student currently pursuing IT engineering at Bharati Vidyapeeth College o
 - HTML
 - CSS
 - JavaScript
+- python ( beginner )
+- java
+
+## Skills
+
+- Sql
+- MongoDb
+  
 
 ## Contact Information
 
