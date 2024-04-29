@@ -1,5 +1,3 @@
-# Adarsh-Singh
-
 # Adarsh Singh
 
 ## About Me
